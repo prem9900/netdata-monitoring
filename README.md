@@ -74,4 +74,5 @@ task-7-netdata-monitoring/
 └── README.md 
 
 
+<img src="./screenshot/netdata-dashboard.png" alt="Netdata Dashboard" width="700"/>
 
