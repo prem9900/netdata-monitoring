@@ -53,7 +53,7 @@ Below is the Netdata dashboard running on the EC2 server:
 
 Below is the Netdata dashboard running on the EC2 server:
 
-<img src="./netdata-monitoring/screenshot/netdata-dashboard.png" alt="Netdata Dashboard" width="700"/>
+<img src="./netdata-monitoring/screenshot/netdata-dashboard.png" alt="Netdata Dashboard" width="400"/>
 
 It shows live metrics like CPU usage, RAM, disk activity, and Docker container stats.
 
