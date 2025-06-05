@@ -44,12 +44,7 @@ To set up Netdata on an AWS EC2 server using Docker and monitor system performan
 7. Took a screenshot of the live dashboard and saved it in the `screenshot/` folder.
 
 
-
- Screenshot
-
-Below is the Netdata dashboard running on the EC2 server:
-
-## 📸 Screenshot
+   Screenshot
 
 Below is the Netdata dashboard running on the EC2 server:
 
