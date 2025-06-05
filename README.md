@@ -49,7 +49,8 @@ To set up Netdata on an AWS EC2 server using Docker and monitor system performan
 
 Below is the Netdata dashboard running on the EC2 server:
 
-![Netdata Dashboard](./screenshot/netdata-dashboard.png)
+![Netdata Dashboard](./netdata-monitoring/screenshot/netdata-dashboard.png)
+
 
 It shows live metrics like CPU usage, RAM, disk activity, and Docker container stats.
 
